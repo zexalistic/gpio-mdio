@@ -1,0 +1,6 @@
+C:\Users\lyihao\Documents\MCUXpressoIDE_11.4.1_6260\workspace\LPC54102_mdio_clean\drivers/fsl_power.h:96:20:POWER_DisablePD	16	static
+../board/boards/clock_config.c:55:6:BOARD_InitBootClocks	8	static
+../board/boards/clock_config.c:83:6:BOARD_BootClockIRC12M	8	static
+../board/boards/clock_config.c:138:6:BOARD_BootClockPLL48M	48	static
+../board/boards/clock_config.c:220:6:BOARD_BootClockPLL96M	48	static
+../board/boards/clock_config.c:301:6:BOARD_BootClockPLL100M	48	static

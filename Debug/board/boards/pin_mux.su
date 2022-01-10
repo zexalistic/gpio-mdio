@@ -1,0 +1,10 @@
+C:\Users\lyihao\Documents\MCUXpressoIDE_11.4.1_6260\workspace\LPC54102_mdio_clean\drivers/fsl_clock.h:396:20:CLOCK_EnableClock	24	static
+../board/boards/pin_mux.c:98:6:BOARD_InitBootPins	8	static
+../board/boards/pin_mux.c:104:6:BOARD_InitXMIIPins	16	static
+../board/boards/pin_mux.c:168:6:BOARD_InitPins_cm4	8	static
+../board/boards/pin_mux.c:210:6:BOARD_InitLink2MCUPins	8	static
+../board/boards/pin_mux.c:267:6:BOARD_InitBUTTONsPins	16	static
+../board/boards/pin_mux.c:334:6:BOARD_InitLEDsPins	24	static
+../board/boards/pin_mux.c:418:6:BOARD_InitDEBUG_UARTPins	8	static
+../board/boards/pin_mux.c:468:6:BOARD_InitSWD_DEBUGPins	8	static
+../board/boards/pin_mux.c:531:6:BOARD_InitSPI_BridgePins	8	static

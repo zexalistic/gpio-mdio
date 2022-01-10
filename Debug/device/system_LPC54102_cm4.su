@@ -1,0 +1,3 @@
+../device/system_LPC54102_cm4.c:63:6:SystemInit	8	static
+../device/system_LPC54102_cm4.c:87:6:SystemCoreClockUpdate	4	static
+../device/system_LPC54102_cm4.c:96:29:SystemInitHook	4	static
